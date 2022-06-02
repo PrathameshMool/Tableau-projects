@@ -1,0 +1,5 @@
+Financial complaints dashboard
+Created a Tableau Dashboard for Financial Complaints | Overview 
+This is the first portfolio project on the road map for the data analyst journey
+I have used a data set from :https://data.world/markbradbourne/rwfd-real-world-fake-data
+Tableau workbook link:https://public.tableau.com/app/profile/prathamesh.mool/viz/Project1FinancialComplaintsDashboard/financialcomplainsoverview?publish=yes
